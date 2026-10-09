@@ -250,4 +250,4 @@ This repository serves as the official landing page for SiSoftware Sandra. The s
 **Get the most recent version of SiSoftware Sandra today!**
 
 ---
-**Last updated:** 2026-10-09 08:41:19 UTC
+**Last updated:** 2026-10-09 15:57:09 UTC
